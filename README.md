@@ -26,9 +26,9 @@ We investigated differences in physical properties across listed star types, usi
 ### Discussion
 Our analysis revealed significant insights into the characteristics and classifications of stars. We identified distinct patterns in physical properties corresponding to different stellar categories and explored correlations between luminosity, radius, and other significant astronomical factors.
 
-### Conclusion
+# Conclusion
 This study provided an in-depth understanding of stellar properties and their relationships with stellar classifications. The analyses and visualizations developed contribute to the field of astrophysics, offering a basis for future research and a better understanding of stellar composition and evolution.
 
-# Future Directions
+### Future Directions
 We suggest applying machine learning techniques to predict stellar classifications based on physical properties and expanding this study to include larger datasets to validate the findings and explore new hypotheses.
 
